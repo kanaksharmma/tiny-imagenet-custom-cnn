@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Large datasets
+data/tiny-imagenet-200/
+tiny-imagenet-200.zip
+
+# Colab specific
+/content/
+/.sample_data/
+
+# OS files
+.DS_Store
+
